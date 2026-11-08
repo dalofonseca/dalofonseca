@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Dario 👋</h1>
-<p align="center">Research Engineer at Science for Life Laboratory, Sweden</p>
+<p align="center">PhD student and Bioinformatician at @Wellcome Sanger Institute @University of Cambridge, UK</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dario-dalo-fonseca/ target="_blank">
